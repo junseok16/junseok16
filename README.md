@@ -8,7 +8,6 @@
 | 이 름 | 탁준석 |
 | 학 력 | 단국대학교 모바일시스템공학과(수석 졸업 예정) |
 | 이메일 | tjsuk0220@gmail.com |
-| 블로그 | [컨티뉴](https://continue96.tistory.com/) |
 | 희망 직무 | 클라이언트 프로그래머, 엔진 프로그래머 |
 <br>
 
@@ -30,10 +29,10 @@
 ## 🛠️ 스택
 | 스택 | 내용 |
 | :--- | :--- |
-| 언 어 | C, C++, C#, JAVA, Kotlin |
-| 엔 진 | Unity, Unreal Engine |
+| 언 어 | C, C++, C# |
+| 엔 진 | Unity |
 | 형상관리 | Git, GitHub |
-| 통합개발도구 | Visual Studio, Android Studio, Premiere Pro, Arduino |
+| 통합개발도구 | Visual Studio, Android Studio, Premiere Pro |
 | 협업도구 | Notion, Slack |
 <br>
 
