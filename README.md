@@ -6,9 +6,9 @@
 | 프로필 | 내용 |
 | :--- | :--- |
 | 이 름 | 탁준석 |
-| 학 력 | 단국대학교 모바일시스템공학과(수석 졸업 예정) |
+| 학 력 | 단국대학교 모바일시스템공학과 졸업 |
 | 이메일 | tjsuk0220@gmail.com |
-| 희망 직무 | 클라이언트 프로그래머, 엔진 프로그래머 |
+| 직무 | 클라이언트 프로그래머 |
 <br>
 
 ## 💻 프로젝트
@@ -29,10 +29,10 @@
 ## 🛠️ 스택
 | 스택 | 내용 |
 | :--- | :--- |
-| 언 어 | C, C++, C# |
-| 엔 진 | Unity |
+| 언 어 | C, C++ |
+| 엔 진 | Unreal Engine |
 | 형상관리 | Git, GitHub |
-| 통합개발도구 | Visual Studio, Android Studio, Premiere Pro |
+| 통합개발도구 | Visual Studio, Premiere Pro |
 | 협업도구 | Notion, Slack |
 <br>
 
@@ -60,5 +60,5 @@
 ## 📋 코딩 테스트
 | 코딩 테스트 | 언어 | 레벨 | 푼 문제 수 | 리포지토리 |
 | :--- | :--- | :---  | :--- | :--- |
-| 백준 온라인 저지 | C++ | 골드 1 | 350 문제(진행 중) | [바로 가기](https://github.com/junseok16/Baekjoon-Online-Judge) |
-| 프로그래머스 | C++ | 레벨 2 | 350 문제(진행 중) | [바로 가기](https://github.com/junseok16/Programmers) |
+| 백준 온라인 저지 | C++ | 골드 1 | 400 문제(진행 중) | [바로 가기](https://github.com/junseok16/Baekjoon-Online-Judge) |
+| 프로그래머스 | C++ | 레벨 2 | 400 문제(진행 중) | [바로 가기](https://github.com/junseok16/Programmers) |
